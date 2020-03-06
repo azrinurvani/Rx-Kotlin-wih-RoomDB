@@ -1,0 +1,2 @@
+rootProject.name='Rx Kotlin with RoomDB'
+include ':app'
