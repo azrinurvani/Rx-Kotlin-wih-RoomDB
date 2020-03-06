@@ -1,4 +1,4 @@
-package com.mobile.azrinurvani.rxkotlinwithroomdb
+package com.mobile.azrinurvani.rxkotlinwithroomdb.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,6 +7,7 @@ import android.widget.Toast
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.mobile.azrinurvani.rxkotlinwithroomdb.R
 import com.mobile.azrinurvani.rxkotlinwithroomdb.adapter.PersonDataAdapter
 import com.mobile.azrinurvani.rxkotlinwithroomdb.entitiy.PersonData
 import com.mobile.azrinurvani.rxkotlinwithroomdb.entitiy.db.PersonalDetailsDataBase
